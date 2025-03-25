@@ -1,6 +1,6 @@
 # Churn Prediction
 
-Este projeto utiliza **Árvore de Decisão** e **Regressão Logística** para prever o churn de clientes de uma empresa de telecom.
+Este projeto utiliza **Árvore de Decisão** e **Regressão Logística** para prever o churn de clientes de uma empresa de telecomunicação.
 
 ## Objetivo
 
